@@ -11,3 +11,6 @@
 - Rename example.env to .env
 - Grab your openAI API key and insert into .env
 - `node script.js` in terminal to run the script
+
+## Reference
+- https://platform.openai.com/docs/quickstart?context=node
